@@ -1,0 +1,1 @@
+You NEED Java 9 or greater to run this jar file. PLace these contents in a folder. You may edit the levels but the dialog is hardcoded
